@@ -1,0 +1,1 @@
+CREATE TABLE UFO_ORDER_RESOLUTION ( ih_number VARCHAR(50), order_id VARCHAR(50), customer_order_id VARCHAR(50), integration_id VARCHAR(50), transaction_id VARCHAR(50), submitted_date TIMESTAMP WITHOUT TIME ZONE, system VARCHAR(50), root_cause_analysis VARCHAR(255), action_taken VARCHAR(255), action_timestamp TIMESTAMP WITHOUT TIME ZONE );
