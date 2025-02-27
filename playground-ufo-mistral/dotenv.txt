@@ -1,0 +1,10 @@
+MISTRAL_API_KEY = "EMPTY"
+MISTRAL_MODEL = "mistral-small-24b-instruct-2501"
+MISTRAL_BASE_URL = "https://mistral-small-24b-instruct-2501.accenture-poc-genai.svc.cluster.local/v1"
+
+# Database connection constants
+DB_HOST = "postgresql.accenture-poc-database.svc.cluster.local"
+DB_DATABASE = "vectordb"
+DB_USER = "vectordb"
+DB_PASSWORD = "vectordb"
+DB_PORT = "5432"
